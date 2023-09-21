@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MandiriMovieNews</string>
+
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Most popular movies</string>
+    <string name="error_fetch_movies">No internet connection</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="highest_rated_movies">Highest rated movies of all time</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="stay_updated">Stay updated with the latest movies</string>
+    <string name="genre">Genre</string>
+    <string name="discover_movie_genre">Discover movie by genre</string>
+    <string name="review">Review</string>
+    <string name="overview">Storyline</string>
+    <string name="movie">Movie</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+    <string name="latest">Latest</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="trending">Trending</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account ?</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="name">Name</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_username">Username</string>
+    <string name="username">Username</string>
+    <string name="approved_term_and_privacy">By registering, you agree to \n the <a href="http://192.168.1.8:8000/terms-of-service">term &amp; condition</a> and <a href="http://192.168.1.8:8000/privacy-policy">privacy policy</a></string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="phone">Phone</string>
+    <string name="logout">Logout</string>
+    <string name="back">back</string>
+    <string name="retry">Retry</string>
+    <string name="explore_genre_movie">Explore more genre movie</string>
+    <string name="menu">menu</string>
+    <string name="date">Date</string>
+    <string name="image_news">Image News</string>
+    <string name="movie_not_found">Movie not found</string>
+    <string name="power_by">Power by</string>
+    <string name="favorite">Favorite</string>
+    <string name="discover_your_favorite_movie">Discover your favorite movie</string>
+</resources>

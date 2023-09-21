@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/bg_top_round.xml" value="0.316" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/ic_favorite.xml" value="0.332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/ic_favorite_placeholder.xml" value="0.332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/ic_favorite_selector.xml" value="0.332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.316" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/ic_movie.xml" value="0.332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/image_logo.xml" value="0.332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/logo_news_api.xml" value="0.316" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/drawable/logo_tmdb.xml" value="0.316" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/activity_home.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_favorite.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_login.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_movie.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_movie_by_genre.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_movie_detail.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_news.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_news_detail.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_profile.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_search_movie.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_search_news.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/fragment_splash.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/item_genre_detail_movie.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/item_genre_movie.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/item_motion_movie.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/item_movie.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/item_news_category.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/item_review_movie.xml" value="0.3390625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/layout/placeholder_movie.xml" value="0.3546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MandiriMovie/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3390625" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/drawable/ic_movie.xml" value="0.3085" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/drawable/ic_movie_placeholder.xml" value="0.202" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/drawable/ic_movie_selector.xml" value="0.202" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/drawable/ic_news_placeholder.xml" value="0.202" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/drawable/radio_selector.xml" value="0.158" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/activity_main.xml" value="0.1484375" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/fragment_movie.xml" value="0.25" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/fragment_movie_by_genre.xml" value="0.3390625" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/fragment_movie_detail.xml" value="0.3390625" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/fragment_news.xml" value="0.25" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/fragment_splash.xml" value="0.22" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/item_genre_movie.xml" value="0.25" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/item_motion_movie.xml" value="0.33" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/layout/item_review_movie.xml" value="0.33" />
+        <entry key="..\:/Users/User/MandiriMovieNews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3390625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

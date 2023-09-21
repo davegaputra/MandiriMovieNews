@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_home"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.mandirimovienews.view.fragment.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_movieFragment"
+            app:destination="@id/movieFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/movieFragment"
+        android:name="com.example.mandirimovienews.view.fragment.MovieFragment"
+        android:label="fragment_movie"
+        tools:layout="@layout/fragment_movie" >
+        <action
+            android:id="@+id/action_movieFragment_to_searchMovieFragment"
+            app:destination="@id/searchMovieFragment" />
+        <action
+            android:id="@+id/action_movieFragment_to_movieByGenreFragment"
+            app:destination="@id/movieByGenreFragment" />
+        <action
+            android:id="@+id/action_movieFragment_to_movieDetailFragment"
+            app:destination="@id/movieDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.example.mandirimovienews.view.fragment.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_searchNewsFragment"
+            app:destination="@id/searchNewsFragment" />
+        <action
+            android:id="@+id/action_newsFragment_to_newsDetailFragment"
+            app:destination="@id/newsDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchMovieFragment"
+        android:name="com.example.mandirimovienews.view.fragment.SearchMovieFragment"
+        android:label="fragment_search_movie"
+        tools:layout="@layout/fragment_search_movie" >
+        <action
+            android:id="@+id/action_searchMovieFragment_to_movieDetailFragment"
+            app:destination="@id/movieDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchNewsFragment"
+        android:name="com.example.mandirimovienews.view.fragment.SearchNewsFragment"
+        android:label="fragment_search_news"
+        tools:layout="@layout/fragment_search_news" >
+        <action
+            android:id="@+id/action_searchNewsFragment_to_newsDetailFragment"
+            app:destination="@id/newsDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/movieByGenreFragment"
+        android:name="com.example.mandirimovienews.view.fragment.MovieByGenreFragment"
+        android:label="fragment_movie_by_genre"
+        tools:layout="@layout/fragment_movie_by_genre" >
+        <argument
+            android:name="genre_id"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_movieByGenreFragment_to_movieDetailFragment"
+            app:destination="@id/movieDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/movieDetailFragment"
+        android:name="com.example.mandirimovienews.view.fragment.MovieDetailFragment"
+        android:label="fragment_movie_detail"
+        tools:layout="@layout/fragment_movie_detail" >
+        <argument
+            android:name="movie_id"
+            app:argType="long" />
+        <action
+            android:id="@+id/action_movieDetailFragment_to_movieByGenreFragment"
+            app:destination="@id/movieByGenreFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsDetailFragment"
+        android:name="com.example.mandirimovienews.view.fragment.NewsDetailFragment"
+        android:label="fragment_news_detail"
+        tools:layout="@layout/fragment_news_detail" >
+        <argument
+            android:name="json_article"
+            app:argType="string" />
+    </fragment>
+</navigation>
